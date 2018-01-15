@@ -34,7 +34,8 @@ header {
 }
 .navbar-light .navbar-brand {
   color: #fff;
-  margin-left: 70px;
+  margin-right: 0;
+  /*margin-left: 70px;*/
 }
 .navbar {
   padding: 0
@@ -47,7 +48,7 @@ header {
   padding-left: .5rem;
   padding-right: .5rem;
   margin-left: 15px;
-  margin-right: 15px;
+  /*margin-right: 15px;*/
  
   
 
@@ -58,8 +59,8 @@ a {
   color: #999;
 }
 #navbarNav {
-  padding-right: 3rem;
-  margin-right: 50px;
+  padding-right: 15px;
+  /*margin-right: 50px;*/
  
 
 }
@@ -69,9 +70,9 @@ a {
 }
 
 .content {
-  max-width: 650px;
+  /*max-width: 650px;*/
   padding: 30px;
-  margin: 0 0 40px 70px;
+  margin: 0 0 40px 0px;
   background: #fff;
   border: solid 1px #ddd;
   /*margin-left: 12px;*/
@@ -157,7 +158,7 @@ h3 {
 .work {
   position: relative;
   float: left;
-  width: 274px;
+  width: 320px;
   margin: 20px 0 25px;
   overflow: auto;
 }
@@ -168,7 +169,7 @@ h3 {
 
 .work img {
   width: 100%;
-  height: 250px;
+  height: 280px;
 
   border: 0 none;
   opacity: 0.8;
