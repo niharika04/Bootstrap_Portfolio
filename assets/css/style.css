@@ -257,38 +257,22 @@ footer {
 }
 
 
-@media screen and (max-width: 980px) {  
-  .work {
-  width: 560px;
-}
-
-.work img {
-  height: 420px;
-}
-
-}
 
 @media screen and (max-width: 768px) {
 
-
-
 #connect {
   margin-left: 0 ;
-  
+ } 
 }
 
 @media screen and (max-width: 640px) {
 
-.work {
-  width: 550px;
-}
 
-.work img {
-  height: 420px;
-}
 #connect {
   margin-left: 0 ;
   
+}
+
 }
 
 
